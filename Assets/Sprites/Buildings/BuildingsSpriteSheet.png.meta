@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: 72ac5d9fc59e5274683e9a06b71b5027
+timeCreated: 1505203035
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BuildingsSpriteSheet_0
+    21300002: BuildingsSpriteSheet_1
+    21300004: BuildingsSpriteSheet_2
+    21300006: BuildingsSpriteSheet_3
+    21300008: BuildingsSpriteSheet_4
+    21300010: BuildingsSpriteSheet_5
+    21300012: BuildingsSpriteSheet_6
+    21300014: BuildingsSpriteSheet_7
+    21300016: BuildingsSpriteSheet_8
+    21300018: BuildingsSpriteSheet_9
+    21300020: BuildingsSpriteSheet_10
+    21300022: BuildingsSpriteSheet_11
+    21300024: BuildingsSpriteSheet_12
+    21300026: BuildingsSpriteSheet_13
+    21300028: BuildingsSpriteSheet_14
+    21300030: BuildingsSpriteSheet_15
+    21300032: BuildingsSpriteSheet_16
+    21300034: BuildingsSpriteSheet_17
+    21300036: BuildingsSpriteSheet_18
+    21300038: BuildingsSpriteSheet_19
+    21300040: BuildingsSpriteSheet_20
+    21300042: BuildingsSpriteSheet_21
+    21300044: BuildingsSpriteSheet_22
+    21300046: BuildingsSpriteSheet_23
+    21300048: BuildingsSpriteSheet_24
+    21300050: BuildingsSpriteSheet_25
+    21300052: BuildingsSpriteSheet_26
+    21300054: BuildingsSpriteSheet_27
+    21300056: BuildingsSpriteSheet_28
+    21300058: BuildingsSpriteSheet_29
+    21300060: BuildingsSpriteSheet_30
+    21300062: BuildingsSpriteSheet_31
+    21300064: BuildingsSpriteSheet_32
+    21300066: BuildingsSpriteSheet_33
+    21300068: BuildingsSpriteSheet_34
+    21300070: BuildingsSpriteSheet_35
+    21300072: BuildingsSpriteSheet_36
+    21300074: BuildingsSpriteSheet_37
+    21300076: BuildingsSpriteSheet_38
+    21300078: BuildingsSpriteSheet_39
+    21300080: BuildingsSpriteSheet_40
+    21300082: BuildingsSpriteSheet_41
+    21300084: BuildingsSpriteSheet_42
+    21300086: BuildingsSpriteSheet_43
+    21300088: BuildingsSpriteSheet_44
+    21300090: BuildingsSpriteSheet_45
+    21300092: BuildingsSpriteSheet_46
+    21300094: BuildingsSpriteSheet_47
+    21300096: BuildingsSpriteSheet_48
+    21300098: BuildingsSpriteSheet_49
+    21300100: BuildingsSpriteSheet_50
+    21300102: BuildingsSpriteSheet_51
+    21300104: BuildingsSpriteSheet_52
+    21300106: BuildingsSpriteSheet_53
+    21300108: BuildingsSpriteSheet_54
+    21300110: BuildingsSpriteSheet_55
+    21300112: BuildingsSpriteSheet_56
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 809
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 809
+        width: 127
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 768
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 782
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 823
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 823
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 809
+        width: 183
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 726
+        width: 93
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 740
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 740
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 740
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 740
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 740
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 740
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 740
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 740
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 642
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 642
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 642
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 642
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 642
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 656
+        width: 155
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 509
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 586
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 530
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 474
+        width: 205
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 488
+        width: 193
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 488
+        width: 99
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 586
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 209
+        width: 93
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 293
+        width: 241
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 460
+        width: 112
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 362
+        width: 194
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 446
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 404
+        width: 113
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 335
+        width: 82
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 376
+        width: 102
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 307
+        width: 131
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 307
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 293
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 265
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 223
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 223
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 223
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 223
+        width: 197
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 223
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 209
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 111
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 213
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 9
+        width: 350
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 152
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 27
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 27
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BuildingsSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 41
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
